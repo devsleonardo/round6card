@@ -20,3 +20,11 @@ Após a instalação, rode o comando abaixo e espere iniciar.
 ### Captura da aplicação
 
 ![alt text](https://media.giphy.com/media/EHx5s9MScfenhPEvRU/giphy.gif)
+
+
+### Inspiração de Projeto
+
+https://www.youtube.com/watch?v=c2lG_tExar4
+
+O código foi transformado para ReactJS e usando uma pequena ajuda do Bootstrap o tornando mais limpo.
+
