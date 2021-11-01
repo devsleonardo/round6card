@@ -7,7 +7,7 @@ export default function card() {
       <div className="maincontainer">
         <div className="thecard">
           <div className="thefront text-center">
-            <span className="circulo me-3"> </s>
+            <span className="circulo me-3"> </span>
             <span className="triangulo me-3"> </span>
             <span className="quadrado"> </span>
           </div>
